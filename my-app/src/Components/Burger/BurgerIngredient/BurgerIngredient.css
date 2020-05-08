@@ -21,7 +21,7 @@
     width: 10%;
     height: 15%;
     position: absolute;
-    background-color: white;
+    background-color: black;
     left: 30%;
     top: 50%;
     border-radius: 40%;
@@ -34,7 +34,7 @@
     width: 100%;
     height: 100%;
     position: absolute;
-    background-color: white;
+    background-color: black;
     left: -170%;
     top: -260%;
     border-radius: 40%;
@@ -47,7 +47,7 @@
     width: 100%;
     height: 100%;
     position: absolute;
-    background-color: white;
+    background-color: black;
     left: 180%;
     top: -50%;
     border-radius: 40%;
@@ -59,7 +59,7 @@
     width: 10%;
     height: 15%;
     position: absolute;
-    background-color: white;
+    background-color: black;
     left: 64%;
     top: 50%;
     border-radius: 40%;
@@ -72,7 +72,7 @@
     width: 100%;
     height: 100%;
     position: absolute;
-    background-color: white;
+    background-color: black;
     left: 150%;
     top: -130%;
     border-radius: 40%;
@@ -82,7 +82,7 @@
   
 
 .Meat {
-    width: 80%;
+    width: 85%;
     height: 8%;
     background: linear-gradient(#7f3608, #702e05);
     margin: 2% auto;
@@ -90,7 +90,7 @@
 }
 
 .Cheese {
-    width: 90%;
+    width: 85%;
     height: 4.5%;
     margin: 2% auto;
     background: linear-gradient(#f4d004, #d6bb22);
@@ -106,7 +106,7 @@
 }
 
 .Bacon {
-    width: 80%;
+    width: 85%;
     height: 3%;
     background: linear-gradient(#bf3813, #c45e38);
     margin: 2% auto;
