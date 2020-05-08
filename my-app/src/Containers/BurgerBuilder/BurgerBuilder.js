@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Aux from '../../hoc/Auxillary';
+import Burger from '../../Components/Burger/Burger';
 class BurgerBuilder extends Component {
 
     render(){
@@ -7,7 +8,7 @@ class BurgerBuilder extends Component {
 
             <Aux>
                 <div>
-                    Burger
+                    <Burger />
                      
                 </div>
                 <div>
