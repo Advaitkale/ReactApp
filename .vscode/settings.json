@@ -1,0 +1,15 @@
+{
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.wordWrap": "on",
+    "html.autoClosingTags": true,
+    "files.associations": {
+
+    
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "auto-close-tag.fullMode": true,
+    "auto-close-tag.SublimeText3Mode": true
+}
